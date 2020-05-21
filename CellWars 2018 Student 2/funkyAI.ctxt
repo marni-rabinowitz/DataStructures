@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=funkyAI
+comment1.params=
+comment1.target=java.lang.String\ getAIName()
+comment2.params=grid
+comment2.target=Location\ select(Grid)
+comment2.text=\r\n\ my\ strategy\ is\ to\ multiply\ my\ cells\ and\ increase\ my\ cell\ count\ as\ much\ as\ possible.\ \r\n\ I\ do\ this\ by\ first\ puttin\ a\ cell\ down\ where\ I\ am\ the\ most\ common\ neighbor\r\n\ and\ if\ that\ doesnt\ work,\ I\ put\ a\ cell\ down\ when\ there\ are\ 7\ neighbors\ around\ the\ cell\r\n\ I\ decided\ on\ 7\ neighbors\ by\ trial\ and\ error\ and\ 7\ seemed\ to\ multiply\ my\ cells\ the\ most\r\n
+numComments=3
