@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h
+comment0.target=EndPiece(int,\ int,\ int,\ int)
+comment0.text=\r\n\ constructs\ the\ EndPiece\ class\r\n
+comment1.params=p
+comment1.target=boolean\ intersects(java.awt.Rectangle)
+comment1.text=\r\n\ this\ method\ tests\ if\ the\ rectangle\ intersects\ anothe\ rectangle\r\n\ @param\ rectangle\ p\ the\ other\ rectangle\r\n\ @return\ true\ if\ the\ two\ rectangles\ intersect\r\n
+comment2.params=
+comment2.target=java.awt.Rectangle\ getRectangle()
+comment2.text=\r\n\ this\ method\ gets\ the\ rectangle\r\n\ @return\ the\ rectangle\ endpiece\r\n
+comment3.params=g
+comment3.target=void\ draw(java.awt.Graphics)
+comment3.text=\r\n\ this\ method\ draws\ the\ rectangle\r\n\ @param\ graphics\ g\ the\ graphic\r\n
+numComments=4

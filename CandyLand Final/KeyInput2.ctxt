@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=p
+comment0.target=KeyInput2(Player2)
+comment0.text=\n\ constructs\ the\ keyinput2\ class\n\ @param\ player2\ p\ the\ player\n
+comment1.params=e
+comment1.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment1.text=\n\ this\ method\ does\ an\ event\ when\ a\ key\ is\ pressed\n\ @param\ Keyevent\ e\ the\ key\ event\n
+comment2.params=e
+comment2.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment2.text=\n\ this\ method\ does\ an\ event\ when\ a\ key\ is\ released\n\ @param\ KeyEvent\ e\ the\ key\ event\n
+numComments=3

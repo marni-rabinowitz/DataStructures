@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=x\ y\ c
+comment0.target=Player2(int,\ int,\ java.lang.String)
+comment0.text=\n\ Creates\ the\ player\ class\n\ @param\ int\ x\ The\ x\ coordinate\n\ @param\ int\ y\ The\ y\ coordinate\ \ \ \n
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\n\ this\ method\ updates\ the\ players\ position\n
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.text=\n\ this\ method\ moves\ the\ player\ when\ the\ keys\ are\ pressed\n\ @param\ KeyEvent\ e\ the\ key\ event\n
+comment3.params=e
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment3.text=\n\ this\ method\ stops\ moving\ the\ player\ when\ the\ keys\ are\ released\n\ @param\ KeyEvent\ e\ the\ key\ event\n
+comment4.params=g2d
+comment4.target=void\ draw(java.awt.Graphics2D)
+comment4.text=\n\ this\ method\ draws\ the\ player\n\ @param\ graphics2d\ g2d\ the\ graphic\n
+comment5.params=
+comment5.target=java.awt.Image\ getPlayerImage()
+comment5.text=\n\ this\ method\ gets\ the\ players\ image\n\ @return\ the\ image\n
+comment6.params=
+comment6.target=void\ playersTurn()
+comment6.text=\n\ this\ method\ excecutes\ the\ players\ turn\n
+numComments=7

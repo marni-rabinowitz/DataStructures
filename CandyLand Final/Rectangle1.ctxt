@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h
+comment0.target=Rectangle1(int,\ int,\ int,\ int)
+comment0.text=\r\n\ constructs\ the\ rectangle1\ class\r\n\ @param\ int\ x\ the\ x\ coordinate\r\n\ @param\ int\ y\ the\ y\ coordinate\r\n\ @param\ int\ w\ the\ width\r\n\ @param\ int\ h\ the\ height\r\n
+comment1.params=
+comment1.target=void\ update()
+comment1.text=\r\n\ this\ method\ updates\ the\ rectangle's\ positon\r\n
+comment2.params=e
+comment2.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment2.text=\r\n\ this\ method\ moves\ the\ player\ when\ the\ keys\ are\ pressed\r\n\ @param\ KeyEvent\ e\ the\ key\ event\r\n
+comment3.params=e
+comment3.target=void\ keyReleased(java.awt.event.KeyEvent)
+comment3.text=\r\n\ this\ method\ stops\ moving\ the\ player\ when\ the\ keys\ are\ released\r\n\ @param\ KeyEvent\ e\ the\ key\ event\r\n
+comment4.params=p
+comment4.target=boolean\ intersects(java.awt.Rectangle)
+comment4.text=\r\n\ this\ method\ tests\ if\ the\ rectangle\ intersects\ another\ rectangle\r\n\ @return\ true\ if\ they\ intersect\r\n
+comment5.params=
+comment5.target=java.awt.Rectangle\ getRectangle()
+comment5.text=\r\n\ this\ method\ gets\ the\ rectangle\r\n
+comment6.params=g
+comment6.target=void\ draw(java.awt.Graphics)
+comment6.text=\r\n\ this\ method\ draws\ the\ rectangle\r\n\ @param\ Graphics\ g\ the\ graphics\r\n
+numComments=7

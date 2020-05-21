@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n\ c
+comment0.target=Cards(int,\ java.lang.String)
+comment0.text=\n\ Creates\ an\ instance\ of\ the\ Card\ class\n\ @param\ int\ n\ The\ number\ of\ spaces\ to\ be\ moved\n\ @param\ String\ c\ the\ color\ of\ space\ being\ moved\ to\n
+comment1.params=
+comment1.target=int\ getNumSpaces()
+comment1.text=\n\ Returns\ the\ number\ of\ spaces\ on\ the\ card\n\ @return\ int\ numSpaces\n
+comment2.params=
+comment2.target=java.lang.String\ getColor()
+comment2.text=\n\ returns\ the\ color\ of\ the\ card\n\ @return\ string\ color\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Returns\ a\ string\ representation\ of\ the\ class\n\ @return\ the\ string\ representation\n
+numComments=4

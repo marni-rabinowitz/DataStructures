@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Game()
+comment0.text=\n\ Contructs\ the\ Game\ Class\n
+comment1.params=g
+comment1.target=void\ paint(java.awt.Graphics)
+comment1.text=\n\ this\ method\ will\ draw\ the\ objects\ on\ the\ screen\n\ @param\ graphics\ g\ the\ graphic\n
+comment2.params=
+comment2.target=java.awt.Image\ getBackgroundImage()
+comment2.text=\n\ this\ method\ gets\ the\ background\ image\n\ @return\ i.getImage\ the\ image\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\n\ this\ method\ updates\ all\ of\ the\ players\n\ @param\ ActionEvent\ e\ the\ action\ event\n
+comment4.params=
+comment4.target=boolean\ win()
+comment4.text=\n\ this\ method\ determines\ if\ the\ player\ has\ won\n\ @return\ true\ if\ the\ player\ and\ the\ endpiece\ intersect\n
+comment5.params=
+comment5.target=void\ startGame()
+comment5.text=\n\ this\ method\ starts\ and\ excecutes\ the\ game\n
+numComments=6

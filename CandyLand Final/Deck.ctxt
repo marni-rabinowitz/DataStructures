@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Deck()
+comment0.text=\n\ Constructs\ the\ deck\ class\n
+comment1.params=
+comment1.target=Cards\ getTop()
+comment1.text=\n\ Returns\ the\ top\ card\n\ @return\ card\ The\ top\ card\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getDeck()
+comment2.text=\n\ Returns\ the\ deck\n\ @return\ ArrayList\ the\ deck\n
+comment3.params=
+comment3.target=void\ shuffle()
+comment3.text=\n\ Shuffles\ the\ deck\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ Returns\ the\ class\ in\ a\ string\ representation\n\ @return\ the\ string\ representation\ of\ the\ class\n
+numComments=5
